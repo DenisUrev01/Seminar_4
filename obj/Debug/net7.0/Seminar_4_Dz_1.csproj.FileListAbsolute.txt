@@ -1,0 +1,14 @@
+C:\Users\Рыжий\Desktop\Git\Homework\Seminar_4_Dz_1\bin\Debug\net7.0\Seminar_4_Dz_1.exe
+C:\Users\Рыжий\Desktop\Git\Homework\Seminar_4_Dz_1\bin\Debug\net7.0\Seminar_4_Dz_1.deps.json
+C:\Users\Рыжий\Desktop\Git\Homework\Seminar_4_Dz_1\bin\Debug\net7.0\Seminar_4_Dz_1.runtimeconfig.json
+C:\Users\Рыжий\Desktop\Git\Homework\Seminar_4_Dz_1\bin\Debug\net7.0\Seminar_4_Dz_1.dll
+C:\Users\Рыжий\Desktop\Git\Homework\Seminar_4_Dz_1\bin\Debug\net7.0\Seminar_4_Dz_1.pdb
+C:\Users\Рыжий\Desktop\Git\Homework\Seminar_4_Dz_1\obj\Debug\net7.0\Seminar_4_Dz_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рыжий\Desktop\Git\Homework\Seminar_4_Dz_1\obj\Debug\net7.0\Seminar_4_Dz_1.AssemblyInfoInputs.cache
+C:\Users\Рыжий\Desktop\Git\Homework\Seminar_4_Dz_1\obj\Debug\net7.0\Seminar_4_Dz_1.AssemblyInfo.cs
+C:\Users\Рыжий\Desktop\Git\Homework\Seminar_4_Dz_1\obj\Debug\net7.0\Seminar_4_Dz_1.csproj.CoreCompileInputs.cache
+C:\Users\Рыжий\Desktop\Git\Homework\Seminar_4_Dz_1\obj\Debug\net7.0\Seminar_4_Dz_1.dll
+C:\Users\Рыжий\Desktop\Git\Homework\Seminar_4_Dz_1\obj\Debug\net7.0\refint\Seminar_4_Dz_1.dll
+C:\Users\Рыжий\Desktop\Git\Homework\Seminar_4_Dz_1\obj\Debug\net7.0\Seminar_4_Dz_1.pdb
+C:\Users\Рыжий\Desktop\Git\Homework\Seminar_4_Dz_1\obj\Debug\net7.0\Seminar_4_Dz_1.genruntimeconfig.cache
+C:\Users\Рыжий\Desktop\Git\Homework\Seminar_4_Dz_1\obj\Debug\net7.0\ref\Seminar_4_Dz_1.dll
