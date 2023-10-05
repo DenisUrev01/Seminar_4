@@ -1,10 +1,11 @@
 ﻿int Exponentiation(int numberA, int numberB)
 {
   int result = 1;
-  for(int i = 1; i <= numberB; i++){
+  for(int i=1; i <= numberB; i++)
+  {
     result = result * numberA;
   }
-    // int result = Math.Pow(numberA, numberB);
+    
     return result;
 }
 
